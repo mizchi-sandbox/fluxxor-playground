@@ -1,4 +1,6 @@
-# webpack-skeleton
+# fluxxor-playgournd
+
+Tutorial by coffee
 
 ## Build
 

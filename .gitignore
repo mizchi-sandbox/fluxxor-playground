@@ -9,6 +9,7 @@ lcov.info
 *.out
 *.pid
 *.gz
+public/bundle.js
 
 pids
 logs
@@ -19,4 +20,3 @@ build
 
 bower_components
 node_modules
-
